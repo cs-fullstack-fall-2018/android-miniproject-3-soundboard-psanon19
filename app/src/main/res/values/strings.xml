@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Sound Board</string>
+    <string name="sound_1">Sound 1</string>
+    <string name="sound_2">Sound 2</string>
+    <string name="sound_3">Sound 3</string>
+    <string name="sound_4">Sound 4</string>
+    <string name="sound_5">Sound 5</string>
+    <string name="sound_6">Sound 6</string>
+    <string name="sound_bored">Sound Bored</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
 </resources>
