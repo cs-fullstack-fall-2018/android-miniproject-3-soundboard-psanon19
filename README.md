@@ -8,7 +8,7 @@ Objective: Demonstrate a working knowledge of Android application composition/va
 
 * You can use whatever widgets you wish to allow the User to select the different sounds
 
-* Some starter sounds have been included, and more can be found online including here: https://freesound.org/
+* Some starter sounds have been included, and more can be found online including here: https://freesound.org/ (requires a free signup)
 
 ### Tips
 
